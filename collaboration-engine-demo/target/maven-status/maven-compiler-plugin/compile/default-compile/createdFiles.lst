@@ -1,0 +1,10 @@
+com\vaadin\DemoView.class
+com\vaadin\HazelcastBackend$HazelcastEventLog$1.class
+com\vaadin\HazelcastBackend$HazelcastEventLog$2.class
+com\vaadin\HazelcastBackend.class
+com\vaadin\DemoView$Person.class
+com\vaadin\BackendConfigurer.class
+com\vaadin\HazelcastBackend$HazelcastEventLog.class
+com\vaadin\BackendConfigurer$1.class
+com\vaadin\HazelcastBackend$1.class
+com\vaadin\HazelcastBackend$IdAndEvent.class

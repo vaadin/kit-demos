@@ -1,0 +1,16 @@
+.centered-content {
+  margin: 0 auto;
+  max-width: fit-content;
+}
+
+.own-avatar {
+  background-color: var(--lumo-primary-color);
+  color: var(--lumo-base-color);
+}
+
+.log {
+  overflow: auto;
+  max-height: 200px;
+  white-space: pre;
+  font-family: monospace;
+}

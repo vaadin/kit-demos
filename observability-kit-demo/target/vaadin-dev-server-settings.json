@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/WorkFolder/kit-demos/observability-kit-demo/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/WorkFolder/kit-demos/observability-kit-demo/frontend/generated/jar-resources",
+  "staticOutput": "C:/WorkFolder/kit-demos/observability-kit-demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\WorkFolder\\kit-demos\\observability-kit-demo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\WorkFolder\\kit-demos\\observability-kit-demo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/WorkFolder/kit-demos/observability-kit-demo/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/WorkFolder/kit-demos/observability-kit-demo/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/WorkFolder/kit-demos/observability-kit-demo/frontend/generated/jar-resources",
+  "themeName": "myapp",
+  "clientServiceWorkerSource": "C:\\WorkFolder\\kit-demos\\observability-kit-demo\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

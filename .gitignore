@@ -1,0 +1,9 @@
+**/node_modules
+*.project
+*.settings
+.classpath
+
+**/package.json
+**/package-lock.json
+
+.idea/

@@ -1,0 +1,4 @@
+com\vaadin\appsec\demo\views\helloworld\HelloWorldView.class
+com\vaadin\appsec\demo\views\MainLayout.class
+com\vaadin\appsec\demo\Application.class
+com\vaadin\appsec\demo\views\about\AboutView.class
