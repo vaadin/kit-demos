@@ -1,2 +1,2 @@
 # kit-demos
-demo projects of vaadin kits
+Testing repository for trying demo projects of vaadin kits in one repo
